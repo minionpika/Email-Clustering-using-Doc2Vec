@@ -1,0 +1,10 @@
+Dataset Link : https://www.kaggle.com/wcukierski/enron-email-dataset
+
+Rquirements : Python 3
+Gensim 3
+Numpy
+Pandas
+Sklearn
+NLTK
+
+Run : emailCluster.py
